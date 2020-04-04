@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 04 22:19:49 CST 2020
+jsp-api-2.1.pom>nexus-aliyun=
+jsp-api-2.1.jar>nexus-aliyun=
+jsp-api-2.1-sources.jar>nexus-aliyun=
